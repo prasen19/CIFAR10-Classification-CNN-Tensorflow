@@ -6,3 +6,7 @@
 using Deep Convolutional Neural Networks for the Classification task.
 
 3. The accuracy for each classification task is more than 85%.
+
+The predicted results are shown below
+
+![](cifar10_pred.png)
