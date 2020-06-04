@@ -3,11 +3,6 @@ from tensorflow.keras.layers import Conv2D, Add, Flatten, BatchNormalization, Le
 from tensorflow.keras import Model, datasets, models
 import numpy as np
 import matplotlib.pyplot as plt
-from IPython import display
-import os
-import cv2
-from PIL import Image
-
 
 cifar = datasets.cifar10
 
