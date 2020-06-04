@@ -1,7 +1,3 @@
-try:
-  %tensorflow_version 2.x
-except: Exception
-pass
 import tensorflow as tf
 from tensorflow.keras.layers import Conv2D, Add, Flatten, BatchNormalization, LeakyReLU, ReLU, Input, concatenate,Dropout,Dense
 from tensorflow.keras import Model, datasets, models
